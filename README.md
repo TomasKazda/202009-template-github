@@ -1,13 +1,10 @@
-# Typography CSS library
-**Author:** *First Lastname*
-## Demo site
-Link to **[demo](http://www.github.io)** site for preview.
-## Dependecies
-...
-## Implementation
-...
-## Usage
-...
-## Components
-### First
-### Second
+    <h1>
+My first github site
+    </h1>
+    <p>
+Obsahuje zatím
+    </p>
+    <ul>
+        <li>Ahoj světe</li>
+        <li>Základ designu</li>
+    </ul>
